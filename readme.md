@@ -1,6 +1,6 @@
 # 概要
 avif形式ファイルをjpeg形式ファイルに変換するプログラムになります。  
-指定したディレクトリに存在するavif全てを変換します。  
+指定したディレクトリに存在する全てのavifファイルを変換します。  
   
 Cf. 参考  
 [JavaScriptでAVIFをJPEGに変換する](https://zenn.dev/kyome/articles/22c314b3da88d8)  
